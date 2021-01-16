@@ -58,6 +58,7 @@ def ingestPlexWebhook():
         requests.put(urlBulb1, json={'on': True, 'bri': 30})
         requests.put(urlBulb2, json={'on': True, 'bri': 30})
         requests.put(urlBulb3, json={'on': True, 'bri': 30})
+        testing
 
     elif event == 'media.stop' or event == 'media.pause':
         requests.put(urlBulb1, json={'on': True, 'bri': 254})
