@@ -1,0 +1,69 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-032-930
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:test
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:09:06] "[37mPOST / HTTP/1.0[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Frost\\workspace\\Python\\PlexClient\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 256-032-930
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:23:08,133  * Restarting with stat
+2021-01-16 11:23:08,788  * Debugger is active!
+2021-01-16 11:23:08,799  * Debugger PIN: 256-032-930
+2021-01-16 11:23:08,807  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:23:13,986 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:23:13,987 127.0.0.1 - - [16/Jan/2021 11:23:13] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:23:15,656 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:23:15,657 127.0.0.1 - - [16/Jan/2021 11:23:15] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:23:47,197  * Detected change in 'C:\\Users\\Frost\\workspace\\Python\\PlexClient\\app.py', reloading
+2021-01-16 11:23:47,229  * Restarting with stat
+2021-01-16 11:23:47,881  * Debugger is active!
+2021-01-16 11:23:47,893  * Debugger PIN: 256-032-930
+2021-01-16 11:23:47,899  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:24:06,214  * Restarting with stat
+2021-01-16 11:24:06,875  * Debugger is active!
+2021-01-16 11:24:06,887  * Debugger PIN: 256-032-930
+2021-01-16 11:24:06,893  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:24:23,496 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:24:23,497 127.0.0.1 - - [16/Jan/2021 11:24:23] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:24:24,640 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:24:24,640 127.0.0.1 - - [16/Jan/2021 11:24:24] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:33:35,182  * Restarting with stat
+2021-01-16 11:33:35,835  * Debugger is active!
+2021-01-16 11:33:35,848  * Debugger PIN: 256-032-930
+2021-01-16 11:33:35,855  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:33:40,764 127.0.0.1 - - [16/Jan/2021 11:33:40] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+2021-01-16 11:33:41,989 127.0.0.1 - - [16/Jan/2021 11:33:41] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+2021-01-16 11:36:36,570  * Detected change in 'C:\\Users\\Frost\\workspace\\Python\\PlexClient\\app.py', reloading
+2021-01-16 11:36:36,622  * Restarting with stat
+2021-01-16 11:36:37,310  * Debugger is active!
+2021-01-16 11:36:37,322  * Debugger PIN: 256-032-930
+2021-01-16 11:36:37,330  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:37:17,973  * Detected change in 'C:\\Users\\Frost\\workspace\\Python\\PlexClient\\app.py', reloading
+2021-01-16 11:37:18,006  * Restarting with stat
+2021-01-16 11:37:18,673  * Debugger is active!
+2021-01-16 11:37:18,686  * Debugger PIN: 256-032-930
+2021-01-16 11:37:18,694  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:37:24,489  * Restarting with stat
+2021-01-16 11:37:25,145  * Debugger is active!
+2021-01-16 11:37:25,157  * Debugger PIN: 256-032-930
+2021-01-16 11:37:25,164  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:38:21,091 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:38:21,092 127.0.0.1 - - [16/Jan/2021 11:38:21] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:38:22,221 Opera - xoiwp0kqtdpewuxbu2pqdind : track : Reinventing Axl Rose - Pints of Guinness Make You Strong
+2021-01-16 11:38:22,221 127.0.0.1 - - [16/Jan/2021 11:38:22] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:40:23,629  * Detected change in 'C:\\Users\\Frost\\workspace\\Python\\PlexClient\\app.py', reloading
+2021-01-16 11:40:23,656  * Restarting with stat
+2021-01-16 11:40:24,349  * Debugger is active!
+2021-01-16 11:40:24,361  * Debugger PIN: 256-032-930
+2021-01-16 11:40:24,368  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:40:39,395  * Restarting with stat
+2021-01-16 11:40:40,938  * Debugger is active!
+2021-01-16 11:40:40,955  * Debugger PIN: 256-032-930
+2021-01-16 11:40:40,971  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-16 11:42:26,097 Pixel 2 - 013b038c87a5cd67-com-plexapp-android : track : The Full Intrepid Experience of Light - The Full Intrepid Experience of Light
+2021-01-16 11:42:26,099 127.0.0.1 - - [16/Jan/2021 11:42:26] "[37mPOST / HTTP/1.0[0m" 200 -
+2021-01-16 11:42:55,611 Pixel 2 - 013b038c87a5cd67-com-plexapp-android : track : The Full Intrepid Experience of Light - The Full Intrepid Experience of Light
+2021-01-16 11:42:55,613 127.0.0.1 - - [16/Jan/2021 11:42:55] "[37mPOST / HTTP/1.0[0m" 200 -
